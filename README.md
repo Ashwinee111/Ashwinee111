@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>Hello 👋</h2><br>I'm Ashwinee Kumar Sethi and I'm a self-taught front-end developer.<br><be>・🗃️ I Spend most of my time coding projects<br>・🧠 I'm learning React<br>・🌍 I'm based in Odisha, India
+<h2>Hello 👋</h2><br>I'm <h3>Ashwinee Kumar Sethi</h3> and I'm a <h3>self-taught front-end developer</h3>.<br><br>・🗃️ I Spend most of my time coding projects<br>・🧠 Now I'm learning React<br>・🌍 I'm based in Odisha, India
 
 
 ## 🌐 Socials:
