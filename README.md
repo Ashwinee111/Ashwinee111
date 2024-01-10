@@ -6,7 +6,7 @@ I'm <strong>Ashwinee Kumar Sethi</strong> and I'm a self-taught <strong> Full-st
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashwinee-kumar-sethi-5b2004278) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,react,scss,nodejs,express,MongoDB)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,react,scss,nodejs,express,MongoDB,figma)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinee111&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
